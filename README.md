@@ -37,6 +37,6 @@ Neste jogo, o jogador controla o Mario, que precisa pular para desviar dos obst�
 
 ## 📸 Prévia do jogo
 
-> Você pode adicionar um print do jogo ou um link para o GitHub Pages aqui.
+(https://natieledpaula.github.io/Mario-Jump/)
 
 Feito com ❤️
