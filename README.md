@@ -68,4 +68,11 @@ jogo-mario/
 
 ---
 
+## 📜 Licença
+
+Este projeto é de caráter **educacional** e está sob a Licença MIT.  
+Sinta-se livre para usar, modificar e compartilhar com créditos adequados.
+
+---
+
 Feito com ❤️
