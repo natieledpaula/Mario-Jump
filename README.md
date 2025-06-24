@@ -28,9 +28,9 @@ jogo-mario/
 ├── style.css # Estilo visual e animações
 ├── script.js # Lógica do jogo
 ├── assets/
-│ ├── mario.gif # Animação do personagem
-│ ├── pipe.png # Obstáculo
-│ └── background.png # Fundo do cenário
+│     ├── mario.gif # Animação do personagem
+│     ├── pipe.png # Obstáculo
+│     └── background.png # Fundo do cenário
 └── README.md # Documentação do projeto
 ```
 
